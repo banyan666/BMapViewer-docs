@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/',
+    base: '/docs/',
     title: "BMapViewer",
     description: "vue3的离线地图",
     lang: 'zh-CN',
