@@ -6,6 +6,9 @@ hero:
   name: "BMapViewer"
   text: "参考文档"
   tagline: 基于vue3和Cesium封装的地理信息可视化组件，帮助前端开发人员快速搭建地图应用。
+  image:
+    src: '/background.png'
+    alt: 图片
   actions:
     - theme: brand
       text: 快速开始
