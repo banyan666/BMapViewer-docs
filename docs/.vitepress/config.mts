@@ -60,9 +60,9 @@ export default defineConfig({
                 ]
             }
         ],
-        // socialLinks: [
-        //     { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-        // ],
+        socialLinks: [
+            { icon: 'github', link: 'https://github.com/banyan666/BMapViewer' }
+        ],
         search: {
             provider: 'local'
         },
