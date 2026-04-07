@@ -44,7 +44,6 @@ window.Cesium = Cesium
 
 ```
 4. (未遇到此错误可忽略)由于可能是pnpm包管理的问题，使用组件可能报错cesium依赖库找不到zip.js，如果出现这个问题需要手动安装@zip.js/zip.js解决找不到zip.js库的问题。
-<img src="/introduction/zip_err.jpg">
 ![An image](/introduction/zip_err.jpg)
 
 终端执行以下命令
